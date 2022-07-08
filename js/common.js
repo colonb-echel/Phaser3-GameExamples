@@ -16,6 +16,7 @@ const config = {
     }
 };
 
+// 커밋 테스트
 const game = new Phaser.Game(config);
 
 let score = 0;
